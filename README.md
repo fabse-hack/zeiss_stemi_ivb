@@ -71,18 +71,7 @@ Three scanned Zeiss catalogs cover the Stemi IV and other stereomicroscope model
 - [Stereomikroskope II.pdf](Stereomikroskope%20II.pdf)
 - [Stereomikroskope III.pdf](Stereomikroskope%20III.pdf)
 
-## Files
-
-### Beamsplitter
-
-- `stereo_beamsplitter_with_oled_displays.png` — CAD concept with two OLED channels
-- `calculation_beamsplitter.png` — handwritten optical layout and calculation notes
-- `zeiss_stemi_ivb_with_mono_beamsplitter_testing.png` — microscope with mono beamsplitter test setup
-- `looking_through_microscope1.png` — through-eyepiece test image under red/orange illumination
-- `looking_through_microscope2.png` — through-eyepiece test image under blue/magenta illumination
-- Onshape model: [Stereo beamsplitter with OLED displays](https://cad.onshape.com/documents/6c9c3fd28f15d6c910aa045f/w/e978803368f50110e240ad08/e/2bc31ea5fd1c3efbace734eb?renderMode=0&uiState=6abaa6a0f70040a51ed1d5f2)
-
-### Dark-field illuminator
+## Dark-field illuminator
 
 - `illuminator writeup.pdf` — design notes for the NeoPixel-based illuminator
 
