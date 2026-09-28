@@ -14,7 +14,7 @@ The CAD image is a concept visualization. It shows the optical paths and mechani
 
 ### Hand calculation, transcribed
 
-The original whiteboard sketch records these calculation inputs. 
+The original whiteboard sketch records these calculation inputs.
 
 | Item | Value from sketch | Notes |
 | ---- | ---------------- | ----- |
