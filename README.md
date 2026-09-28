@@ -57,6 +57,12 @@ The microscope photo documents a physical test setup with a mono beamsplitter mo
 | ![Through-eyepiece view test1](looking_through_microscope1.png) | White crosshairs |
 | ![Through-eyepiece view test 2](looking_through_microscope2.png) | Blue crosshairs |
 
+### LVGL microscope crosshair
+
+The `lvgl_microscope` project contains firmware for a red crosshair reticle displayed alongside the microscope view. The intended controller is an ESP32-S3 Mini. Its current PlatformIO and display configuration still targets an ESP32-S2 Mini with an ST7735S TFT, so verify and update hardware settings before flashing.
+
+[Open the LVGL microscope firmware README](lvgl_microscope/README.md)
+
 ## Dark-field illuminator — under construction
 
 [illuminator writeup.pdf](illuminator%20writeup.pdf) documents a dark-field illuminator built around a NeoPixel LED ring. The ring mounts around the microscope stage. A separate control box contains an Adafruit 5 V Pro Trinket, pushbuttons, and potentiometers for adjusting red, green, blue, and white LED brightness.
